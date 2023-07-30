@@ -35,6 +35,12 @@ nav ul li a{
   text-decoration: none;
   color: white;
 }
+.mapboxgl-popup {
+  font: 12px/20px 'Open Sans', sans-serif;
+  border-radius: 5px;
+  color: #0d0d24;
+}
+
 
 .left {
   font-size: 1.5rem;

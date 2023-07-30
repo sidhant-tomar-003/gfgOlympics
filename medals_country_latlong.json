@@ -1,0 +1,1814 @@
+{
+    "country_medal_info" : [
+    
+{
+	  "Country-name":"Albania",
+	  "NOC":"ALB",
+	  "lat":41,
+	  "long":20,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Algeria",
+	  "NOC":"ALG",
+	  "lat":28,
+	  "long":3,
+	  "Gold-Medals":0,
+	  "Silver-Medals":4,
+	  "Bronze-Medals":8
+	  },
+{
+	  "Country-name":"Andorra",
+	  "NOC":"AND",
+	  "lat":42.5,
+	  "long":1.6,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Angola",
+	  "NOC":"ANG",
+	  "lat":-12.5,
+	  "long":18.5,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Antigua and Barbuda",
+	  "NOC":"ANT",
+	  "lat":17.05,
+	  "long":-61.8,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Argentina",
+	  "NOC":"ARG",
+	  "lat":-34,
+	  "long":-64,
+	  "Gold-Medals":7,
+	  "Silver-Medals":92,
+	  "Bronze-Medals":91
+	  },
+{
+	  "Country-name":"Armenia",
+	  "NOC":"ARM",
+	  "lat":40,
+	  "long":45,
+	  "Gold-Medals":1,
+	  "Silver-Medals":5,
+	  "Bronze-Medals":9
+	  },
+{
+	  "Country-name":"Australia",
+	  "NOC":"AUS",
+	  "lat":-27,
+	  "long":133,
+	  "Gold-Medals":2,
+	  "Silver-Medals":455,
+	  "Bronze-Medals":517
+	  },
+{
+	  "Country-name":"Austria",
+	  "NOC":"AUT",
+	  "lat":47.3333,
+	  "long":13.3333,
+	  "Gold-Medals":0,
+	  "Silver-Medals":186,
+	  "Bronze-Medals":156
+	  },
+{
+	  "Country-name":"Azerbaijan",
+	  "NOC":"AZE",
+	  "lat":40.5,
+	  "long":47.5,
+	  "Gold-Medals":6,
+	  "Silver-Medals":12,
+	  "Bronze-Medals":25
+	  },
+{
+	  "Country-name":"Bahamas",
+	  "NOC":"BAH",
+	  "lat":24.25,
+	  "long":-76,
+	  "Gold-Medals":0,
+	  "Silver-Medals":11,
+	  "Bronze-Medals":15
+	  },
+{
+	  "Country-name":"Bahrain",
+	  "NOC":"BRN",
+	  "lat":26,
+	  "long":50.55,
+	  "Gold-Medals":0,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":1
+	  },
+{
+	  "Country-name":"Bangladesh",
+	  "NOC":"BAN",
+	  "lat":24,
+	  "long":90,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Barbados",
+	  "NOC":"BAR",
+	  "lat":13.1667,
+	  "long":-59.5333,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":1
+	  },
+{
+	  "Country-name":"Belarus",
+	  "NOC":"BLR",
+	  "lat":53,
+	  "long":28,
+	  "Gold-Medals":7,
+	  "Silver-Medals":44,
+	  "Bronze-Medals":71
+	  },
+{
+	  "Country-name":"Belgium",
+	  "NOC":"BEL",
+	  "lat":50.8333,
+	  "long":4,
+	  "Gold-Medals":0,
+	  "Silver-Medals":197,
+	  "Bronze-Medals":173
+	  },
+{
+	  "Country-name":"Belize",
+	  "NOC":"BIZ",
+	  "lat":17.25,
+	  "long":-88.75,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Benin",
+	  "NOC":"BEN",
+	  "lat":9.5,
+	  "long":2.25,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Bhutan",
+	  "NOC":"BHU",
+	  "lat":27.5,
+	  "long":90.5,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Bosnia and Herzegovina",
+	  "NOC":"BIH",
+	  "lat":44,
+	  "long":18,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Botswana",
+	  "NOC":"BOT",
+	  "lat":-22,
+	  "long":24,
+	  "Gold-Medals":0,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Brazil",
+	  "NOC":"BRA",
+	  "lat":-10,
+	  "long":-55,
+	  "Gold-Medals":4,
+	  "Silver-Medals":175,
+	  "Bronze-Medals":191
+	  },
+{
+	  "Country-name":"Bulgaria",
+	  "NOC":"BUL",
+	  "lat":43,
+	  "long":25,
+	  "Gold-Medals":4,
+	  "Silver-Medals":144,
+	  "Bronze-Medals":144
+	  },
+{
+	  "Country-name":"Burkina Faso",
+	  "NOC":"BUR",
+	  "lat":13,
+	  "long":-2,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Burundi",
+	  "NOC":"BDI",
+	  "lat":-3.5,
+	  "long":30,
+	  "Gold-Medals":0,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Cambodia",
+	  "NOC":"CAM",
+	  "lat":13,
+	  "long":105,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Cameroon",
+	  "NOC":"CMR",
+	  "lat":6,
+	  "long":12,
+	  "Gold-Medals":7,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":1
+	  },
+{
+	  "Country-name":"Canada",
+	  "NOC":"CAN",
+	  "lat":60,
+	  "long":-95,
+	  "Gold-Medals":17,
+	  "Silver-Medals":438,
+	  "Bronze-Medals":451
+	  },
+{
+	  "Country-name":"Cape Verde",
+	  "NOC":"CPV",
+	  "lat":16,
+	  "long":-24,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Central African Republic",
+	  "NOC":"CAF",
+	  "lat":7,
+	  "long":21,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Chad",
+	  "NOC":"CHA",
+	  "lat":15,
+	  "long":19,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Chile",
+	  "NOC":"CHI",
+	  "lat":-30,
+	  "long":-71,
+	  "Gold-Medals":0,
+	  "Silver-Medals":9,
+	  "Bronze-Medals":20
+	  },
+{
+	  "Country-name":"China",
+	  "NOC":"CHN",
+	  "lat":35,
+	  "long":105,
+	  "Gold-Medals":0,
+	  "Silver-Medals":347,
+	  "Bronze-Medals":292
+	  },
+{
+	  "Country-name":"Colombia",
+	  "NOC":"COL",
+	  "lat":4,
+	  "long":-72,
+	  "Gold-Medals":0,
+	  "Silver-Medals":9,
+	  "Bronze-Medals":14
+	  },
+{
+	  "Country-name":"Comoros",
+	  "NOC":"COM",
+	  "lat":-12.1667,
+	  "long":44.25,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Congo",
+	  "NOC":"CGO",
+	  "lat":-1,
+	  "long":15,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Cook Islands",
+	  "NOC":"COK",
+	  "lat":-21.2333,
+	  "long":-159.7667,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Costa Rica",
+	  "NOC":"CRC",
+	  "lat":10,
+	  "long":-84,
+	  "Gold-Medals":0,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":2
+	  },
+{
+	  "Country-name":"Croatia",
+	  "NOC":"CRO",
+	  "lat":45.1667,
+	  "long":15.5,
+	  "Gold-Medals":0,
+	  "Silver-Medals":54,
+	  "Bronze-Medals":37
+	  },
+{
+	  "Country-name":"Cuba",
+	  "NOC":"CUB",
+	  "lat":21.5,
+	  "long":-80,
+	  "Gold-Medals":8,
+	  "Silver-Medals":129,
+	  "Bronze-Medals":116
+	  },
+{
+	  "Country-name":"Cyprus",
+	  "NOC":"CYP",
+	  "lat":35,
+	  "long":33,
+	  "Gold-Medals":0,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Czech Republic",
+	  "NOC":"CZE",
+	  "lat":49.75,
+	  "long":15.5,
+	  "Gold-Medals":0,
+	  "Silver-Medals":36,
+	  "Bronze-Medals":66
+	  },
+{
+	  "Country-name":"Denmark",
+	  "NOC":"DEN",
+	  "lat":56,
+	  "long":10,
+	  "Gold-Medals":8,
+	  "Silver-Medals":241,
+	  "Bronze-Medals":177
+	  },
+{
+	  "Country-name":"Djibouti",
+	  "NOC":"DJI",
+	  "lat":11.5,
+	  "long":43,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":1
+	  },
+{
+	  "Country-name":"Dominica",
+	  "NOC":"DMA",
+	  "lat":15.4167,
+	  "long":-61.3333,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Dominican Republic",
+	  "NOC":"DOM",
+	  "lat":19,
+	  "long":-70.6667,
+	  "Gold-Medals":0,
+	  "Silver-Medals":2,
+	  "Bronze-Medals":2
+	  },
+{
+	  "Country-name":"Ecuador",
+	  "NOC":"ECU",
+	  "lat":-2,
+	  "long":-77.5,
+	  "Gold-Medals":0,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Egypt",
+	  "NOC":"EGY",
+	  "lat":27,
+	  "long":30,
+	  "Gold-Medals":0,
+	  "Silver-Medals":8,
+	  "Bronze-Medals":12
+	  },
+{
+	  "Country-name":"El Salvador",
+	  "NOC":"ESA",
+	  "lat":13.8333,
+	  "long":-88.9167,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Equatorial Guinea",
+	  "NOC":"GEQ",
+	  "lat":2,
+	  "long":10,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Eritrea",
+	  "NOC":"ERI",
+	  "lat":15,
+	  "long":39,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":1
+	  },
+{
+	  "Country-name":"Estonia",
+	  "NOC":"EST",
+	  "lat":59,
+	  "long":26,
+	  "Gold-Medals":0,
+	  "Silver-Medals":12,
+	  "Bronze-Medals":25
+	  },
+{
+	  "Country-name":"Ethiopia",
+	  "NOC":"ETH",
+	  "lat":8,
+	  "long":38,
+	  "Gold-Medals":4,
+	  "Silver-Medals":9,
+	  "Bronze-Medals":22
+	  },
+{
+	  "Country-name":"Fiji",
+	  "NOC":"FIJ",
+	  "lat":-18,
+	  "long":175,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Finland",
+	  "NOC":"FIN",
+	  "lat":64,
+	  "long":26,
+	  "Gold-Medals":22,
+	  "Silver-Medals":270,
+	  "Bronze-Medals":432
+	  },
+{
+	  "Country-name":"France",
+	  "NOC":"FRA",
+	  "lat":46,
+	  "long":2,
+	  "Gold-Medals":57,
+	  "Silver-Medals":610,
+	  "Bronze-Medals":666
+	  },
+{
+	  "Country-name":"Gabon",
+	  "NOC":"GAB",
+	  "lat":-1,
+	  "long":11.75,
+	  "Gold-Medals":0,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Gambia",
+	  "NOC":"GAM",
+	  "lat":13.4667,
+	  "long":-16.5667,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Georgia",
+	  "NOC":"GEO",
+	  "lat":42,
+	  "long":43.5,
+	  "Gold-Medals":0,
+	  "Silver-Medals":6,
+	  "Bronze-Medals":18
+	  },
+{
+	  "Country-name":"Germany",
+	  "NOC":"GER",
+	  "lat":51,
+	  "long":9,
+	  "Gold-Medals":8,
+	  "Silver-Medals":674,
+	  "Bronze-Medals":746
+	  },
+{
+	  "Country-name":"Ghana",
+	  "NOC":"GHA",
+	  "lat":8,
+	  "long":-2,
+	  "Gold-Medals":0,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":22
+	  },
+{
+	  "Country-name":"Greece",
+	  "NOC":"GRE",
+	  "lat":39,
+	  "long":22,
+	  "Gold-Medals":3,
+	  "Silver-Medals":109,
+	  "Bronze-Medals":84
+	  },
+{
+	  "Country-name":"Grenada",
+	  "NOC":"GRN",
+	  "lat":12.1167,
+	  "long":-61.6667,
+	  "Gold-Medals":0,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Guam",
+	  "NOC":"GUM",
+	  "lat":13.4667,
+	  "long":144.7833,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Guatemala",
+	  "NOC":"GUA",
+	  "lat":15.5,
+	  "long":-90.25,
+	  "Gold-Medals":0,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Guinea",
+	  "NOC":"GUI",
+	  "lat":11,
+	  "long":-10,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Guinea-Bissau",
+	  "NOC":"GBS",
+	  "lat":12,
+	  "long":-15,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Guyana",
+	  "NOC":"GUY",
+	  "lat":5,
+	  "long":-59,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":1
+	  },
+{
+	  "Country-name":"Haiti",
+	  "NOC":"HAI",
+	  "lat":19,
+	  "long":-72.4167,
+	  "Gold-Medals":0,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":5
+	  },
+{
+	  "Country-name":"Honduras",
+	  "NOC":"HON",
+	  "lat":15,
+	  "long":-86.5,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Hungary",
+	  "NOC":"HUN",
+	  "lat":47,
+	  "long":20,
+	  "Gold-Medals":7,
+	  "Silver-Medals":332,
+	  "Bronze-Medals":371
+	  },
+{
+	  "Country-name":"Iceland",
+	  "NOC":"ISL",
+	  "lat":65,
+	  "long":-18,
+	  "Gold-Medals":0,
+	  "Silver-Medals":15,
+	  "Bronze-Medals":2
+	  },
+{
+	  "Country-name":"India",
+	  "NOC":"IND",
+	  "lat":20,
+	  "long":77,
+	  "Gold-Medals":0,
+	  "Silver-Medals":19,
+	  "Bronze-Medals":40
+	  },
+{
+	  "Country-name":"Indonesia",
+	  "NOC":"INA",
+	  "lat":-5,
+	  "long":120,
+	  "Gold-Medals":3,
+	  "Silver-Medals":17,
+	  "Bronze-Medals":13
+	  },
+{
+	  "Country-name":"Iraq",
+	  "NOC":"IRQ",
+	  "lat":33,
+	  "long":44,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":1
+	  },
+{
+	  "Country-name":"Ireland",
+	  "NOC":"IRL",
+	  "lat":53,
+	  "long":-8,
+	  "Gold-Medals":0,
+	  "Silver-Medals":13,
+	  "Bronze-Medals":13
+	  },
+{
+	  "Country-name":"Israel",
+	  "NOC":"ISR",
+	  "lat":31.5,
+	  "long":34.75,
+	  "Gold-Medals":0,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":7
+	  },
+{
+	  "Country-name":"Italy",
+	  "NOC":"ITA",
+	  "lat":42.8333,
+	  "long":12.8333,
+	  "Gold-Medals":53,
+	  "Silver-Medals":531,
+	  "Bronze-Medals":531
+	  },
+{
+	  "Country-name":"Jamaica",
+	  "NOC":"JAM",
+	  "lat":18.25,
+	  "long":-77.5,
+	  "Gold-Medals":0,
+	  "Silver-Medals":75,
+	  "Bronze-Medals":44
+	  },
+{
+	  "Country-name":"Japan",
+	  "NOC":"JPN",
+	  "lat":36,
+	  "long":138,
+	  "Gold-Medals":8,
+	  "Silver-Medals":309,
+	  "Bronze-Medals":357
+	  },
+{
+	  "Country-name":"Jordan",
+	  "NOC":"JOR",
+	  "lat":31,
+	  "long":36,
+	  "Gold-Medals":4,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Kazakhstan",
+	  "NOC":"KAZ",
+	  "lat":48,
+	  "long":68,
+	  "Gold-Medals":0,
+	  "Silver-Medals":25,
+	  "Bronze-Medals":32
+	  },
+{
+	  "Country-name":"Kenya",
+	  "NOC":"KEN",
+	  "lat":1,
+	  "long":38,
+	  "Gold-Medals":0,
+	  "Silver-Medals":41,
+	  "Bronze-Medals":31
+	  },
+{
+	  "Country-name":"Kuwait",
+	  "NOC":"KUW",
+	  "lat":29.3375,
+	  "long":47.6581,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":2
+	  },
+{
+	  "Country-name":"Kyrgyzstan",
+	  "NOC":"KGZ",
+	  "lat":41,
+	  "long":75,
+	  "Gold-Medals":0,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":2
+	  },
+{
+	  "Country-name":"Latvia",
+	  "NOC":"LAT",
+	  "lat":57,
+	  "long":25,
+	  "Gold-Medals":0,
+	  "Silver-Medals":19,
+	  "Bronze-Medals":13
+	  },
+{
+	  "Country-name":"Lebanon",
+	  "NOC":"LIB",
+	  "lat":33.8333,
+	  "long":35.8333,
+	  "Gold-Medals":0,
+	  "Silver-Medals":2,
+	  "Bronze-Medals":2
+	  },
+{
+	  "Country-name":"Lesotho",
+	  "NOC":"LES",
+	  "lat":-29.5,
+	  "long":28.5,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Liberia",
+	  "NOC":"LBR",
+	  "lat":6.5,
+	  "long":-9.5,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Liechtenstein",
+	  "NOC":"LIE",
+	  "lat":47.1667,
+	  "long":9.5333,
+	  "Gold-Medals":0,
+	  "Silver-Medals":2,
+	  "Bronze-Medals":5
+	  },
+{
+	  "Country-name":"Lithuania",
+	  "NOC":"LTU",
+	  "lat":56,
+	  "long":24,
+	  "Gold-Medals":2,
+	  "Silver-Medals":7,
+	  "Bronze-Medals":48
+	  },
+{
+	  "Country-name":"Luxembourg",
+	  "NOC":"LUX",
+	  "lat":49.75,
+	  "long":6.1667,
+	  "Gold-Medals":0,
+	  "Silver-Medals":4,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Madagascar",
+	  "NOC":"MAD",
+	  "lat":-20,
+	  "long":47,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Malawi",
+	  "NOC":"MAW",
+	  "lat":-13.5,
+	  "long":34,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Malaysia",
+	  "NOC":"MAS",
+	  "lat":2.5,
+	  "long":112.5,
+	  "Gold-Medals":0,
+	  "Silver-Medals":11,
+	  "Bronze-Medals":5
+	  },
+{
+	  "Country-name":"Maldives",
+	  "NOC":"MDV",
+	  "lat":3.25,
+	  "long":73,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Mali",
+	  "NOC":"MLI",
+	  "lat":17,
+	  "long":-4,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Malta",
+	  "NOC":"MLT",
+	  "lat":35.8333,
+	  "long":14.5833,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Mauritania",
+	  "NOC":"MTN",
+	  "lat":20,
+	  "long":-12,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Mauritius",
+	  "NOC":"MRI",
+	  "lat":-20.2833,
+	  "long":57.55,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":1
+	  },
+{
+	  "Country-name":"Mexico",
+	  "NOC":"MEX",
+	  "lat":23,
+	  "long":-102,
+	  "Gold-Medals":0,
+	  "Silver-Medals":26,
+	  "Bronze-Medals":54
+	  },
+{
+	  "Country-name":"Monaco",
+	  "NOC":"MON",
+	  "lat":43.7333,
+	  "long":7.4,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":1
+	  },
+{
+	  "Country-name":"Mongolia",
+	  "NOC":"MGL",
+	  "lat":46,
+	  "long":105,
+	  "Gold-Medals":0,
+	  "Silver-Medals":10,
+	  "Bronze-Medals":14
+	  },
+{
+	  "Country-name":"Morocco",
+	  "NOC":"MAR",
+	  "lat":32,
+	  "long":-5,
+	  "Gold-Medals":0,
+	  "Silver-Medals":5,
+	  "Bronze-Medals":12
+	  },
+{
+	  "Country-name":"Mozambique",
+	  "NOC":"MOZ",
+	  "lat":-18.25,
+	  "long":35,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":1
+	  },
+{
+	  "Country-name":"Namibia",
+	  "NOC":"NAM",
+	  "lat":-22,
+	  "long":17,
+	  "Gold-Medals":0,
+	  "Silver-Medals":4,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Nauru",
+	  "NOC":"NRU",
+	  "lat":-0.5333,
+	  "long":166.9167,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Nepal",
+	  "NOC":"NEP",
+	  "lat":28,
+	  "long":84,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Netherlands",
+	  "NOC":"NED",
+	  "lat":52.5,
+	  "long":5.75,
+	  "Gold-Medals":9,
+	  "Silver-Medals":340,
+	  "Bronze-Medals":413
+	  },
+{
+	  "Country-name":"New Zealand",
+	  "NOC":"NZL",
+	  "lat":-41,
+	  "long":174,
+	  "Gold-Medals":13,
+	  "Silver-Medals":56,
+	  "Bronze-Medals":82
+	  },
+{
+	  "Country-name":"Nicaragua",
+	  "NOC":"NCA",
+	  "lat":13,
+	  "long":-85,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Niger",
+	  "NOC":"NIG",
+	  "lat":16,
+	  "long":8,
+	  "Gold-Medals":0,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":1
+	  },
+{
+	  "Country-name":"Nigeria",
+	  "NOC":"NGR",
+	  "lat":10,
+	  "long":8,
+	  "Gold-Medals":2,
+	  "Silver-Medals":30,
+	  "Bronze-Medals":46
+	  },
+{
+	  "Country-name":"Norway",
+	  "NOC":"NOR",
+	  "lat":62,
+	  "long":10,
+	  "Gold-Medals":53,
+	  "Silver-Medals":361,
+	  "Bronze-Medals":294
+	  },
+{
+	  "Country-name":"Oman",
+	  "NOC":"OMA",
+	  "lat":21,
+	  "long":57,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Pakistan",
+	  "NOC":"PAK",
+	  "lat":30,
+	  "long":70,
+	  "Gold-Medals":31,
+	  "Silver-Medals":45,
+	  "Bronze-Medals":34
+	  },
+{
+	  "Country-name":"Palau",
+	  "NOC":"PLW",
+	  "lat":7.5,
+	  "long":134.5,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Panama",
+	  "NOC":"PAN",
+	  "lat":9,
+	  "long":-80,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":2
+	  },
+{
+	  "Country-name":"Papua New Guinea",
+	  "NOC":"PNG",
+	  "lat":-6,
+	  "long":147,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Paraguay",
+	  "NOC":"PAR",
+	  "lat":-23,
+	  "long":-58,
+	  "Gold-Medals":0,
+	  "Silver-Medals":17,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Peru",
+	  "NOC":"PER",
+	  "lat":-10,
+	  "long":-76,
+	  "Gold-Medals":0,
+	  "Silver-Medals":14,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Philippines",
+	  "NOC":"PHI",
+	  "lat":13,
+	  "long":122,
+	  "Gold-Medals":0,
+	  "Silver-Medals":3,
+	  "Bronze-Medals":7
+	  },
+{
+	  "Country-name":"Poland",
+	  "NOC":"POL",
+	  "lat":52,
+	  "long":20,
+	  "Gold-Medals":0,
+	  "Silver-Medals":195,
+	  "Bronze-Medals":253
+	  },
+{
+	  "Country-name":"Portugal",
+	  "NOC":"POR",
+	  "lat":39.5,
+	  "long":-8,
+	  "Gold-Medals":0,
+	  "Silver-Medals":11,
+	  "Bronze-Medals":26
+	  },
+{
+	  "Country-name":"Qatar",
+	  "NOC":"QAT",
+	  "lat":25.5,
+	  "long":51.25,
+	  "Gold-Medals":0,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":4
+	  },
+{
+	  "Country-name":"Romania",
+	  "NOC":"ROM",
+	  "lat":46,
+	  "long":25,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Rwanda",
+	  "NOC":"RWA",
+	  "lat":-2,
+	  "long":30,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Saint Kitts and Nevis",
+	  "NOC":"SKN",
+	  "lat":17.3333,
+	  "long":-62.75,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Saint Lucia",
+	  "NOC":"LCA",
+	  "lat":13.8833,
+	  "long":-61.1333,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Saint Vincent and the Grenadines",
+	  "NOC":"VIN",
+	  "lat":13.25,
+	  "long":-61.2,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Samoa",
+	  "NOC":"SAM",
+	  "lat":-13.5833,
+	  "long":-172.3333,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"San Marino",
+	  "NOC":"SMR",
+	  "lat":43.7667,
+	  "long":12.4167,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Sao Tome and Principe",
+	  "NOC":"STP",
+	  "lat":1,
+	  "long":7,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Saudi Arabia",
+	  "NOC":"KSA",
+	  "lat":25,
+	  "long":45,
+	  "Gold-Medals":0,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":5
+	  },
+{
+	  "Country-name":"Senegal",
+	  "NOC":"SEN",
+	  "lat":14,
+	  "long":-14,
+	  "Gold-Medals":0,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Serbia",
+	  "NOC":"SCG",
+	  "lat":44,
+	  "long":21,
+	  "Gold-Medals":0,
+	  "Silver-Medals":26,
+	  "Bronze-Medals":26
+	  },
+{
+	  "Country-name":"Seychelles",
+	  "NOC":"SEY",
+	  "lat":-4.5833,
+	  "long":55.6667,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Sierra Leone",
+	  "NOC":"SLE",
+	  "lat":8.5,
+	  "long":-11.5,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Singapore",
+	  "NOC":"SIN",
+	  "lat":1.3667,
+	  "long":103.8,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Slovakia",
+	  "NOC":"SVK",
+	  "lat":48.6667,
+	  "long":19.5,
+	  "Gold-Medals":0,
+	  "Silver-Medals":19,
+	  "Bronze-Medals":13
+	  },
+{
+	  "Country-name":"Slovenia",
+	  "NOC":"SLO",
+	  "lat":46,
+	  "long":15,
+	  "Gold-Medals":0,
+	  "Silver-Medals":13,
+	  "Bronze-Medals":27
+	  },
+{
+	  "Country-name":"Solomon Islands",
+	  "NOC":"SOL",
+	  "lat":-8,
+	  "long":159,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Somalia",
+	  "NOC":"SOM",
+	  "lat":10,
+	  "long":49,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"South Africa",
+	  "NOC":"RSA",
+	  "lat":-29,
+	  "long":24,
+	  "Gold-Medals":0,
+	  "Silver-Medals":47,
+	  "Bronze-Medals":52
+	  },
+{
+	  "Country-name":"Spain",
+	  "NOC":"ESP",
+	  "lat":40,
+	  "long":-4,
+	  "Gold-Medals":19,
+	  "Silver-Medals":243,
+	  "Bronze-Medals":136
+	  },
+{
+	  "Country-name":"Sri Lanka",
+	  "NOC":"SRI",
+	  "lat":7,
+	  "long":81,
+	  "Gold-Medals":0,
+	  "Silver-Medals":2,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Sudan",
+	  "NOC":"SUD",
+	  "lat":15,
+	  "long":30,
+	  "Gold-Medals":0,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Suriname",
+	  "NOC":"SUR",
+	  "lat":4,
+	  "long":-56,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":1
+	  },
+{
+	  "Country-name":"Swaziland",
+	  "NOC":"SWZ",
+	  "lat":-26.5,
+	  "long":31.5,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Sweden",
+	  "NOC":"SWE",
+	  "lat":62,
+	  "long":15,
+	  "Gold-Medals":24,
+	  "Silver-Medals":522,
+	  "Bronze-Medals":535
+	  },
+{
+	  "Country-name":"Switzerland",
+	  "NOC":"SUI",
+	  "lat":47,
+	  "long":8,
+	  "Gold-Medals":9,
+	  "Silver-Medals":248,
+	  "Bronze-Medals":268
+	  },
+{
+	  "Country-name":"Tajikistan",
+	  "NOC":"TJK",
+	  "lat":39,
+	  "long":71,
+	  "Gold-Medals":0,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":2
+	  },
+{
+	  "Country-name":"Thailand",
+	  "NOC":"THA",
+	  "lat":15,
+	  "long":100,
+	  "Gold-Medals":0,
+	  "Silver-Medals":8,
+	  "Bronze-Medals":13
+	  },
+{
+	  "Country-name":"Togo",
+	  "NOC":"TOG",
+	  "lat":8,
+	  "long":1.1667,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":1
+	  },
+{
+	  "Country-name":"Tonga",
+	  "NOC":"TGA",
+	  "lat":-20,
+	  "long":-175,
+	  "Gold-Medals":0,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Trinidad and Tobago",
+	  "NOC":"TRI",
+	  "lat":11,
+	  "long":-61,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Tunisia",
+	  "NOC":"TUN",
+	  "lat":34,
+	  "long":9,
+	  "Gold-Medals":0,
+	  "Silver-Medals":3,
+	  "Bronze-Medals":7
+	  },
+{
+	  "Country-name":"Turkey",
+	  "NOC":"TUR",
+	  "lat":39,
+	  "long":35,
+	  "Gold-Medals":4,
+	  "Silver-Medals":27,
+	  "Bronze-Medals":28
+	  },
+{
+	  "Country-name":"Turkmenistan",
+	  "NOC":"TKM",
+	  "lat":40,
+	  "long":60,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Uganda",
+	  "NOC":"UGA",
+	  "lat":1,
+	  "long":32,
+	  "Gold-Medals":2,
+	  "Silver-Medals":3,
+	  "Bronze-Medals":2
+	  },
+{
+	  "Country-name":"Ukraine",
+	  "NOC":"UKR",
+	  "lat":49,
+	  "long":32,
+	  "Gold-Medals":2,
+	  "Silver-Medals":52,
+	  "Bronze-Medals":100
+	  },
+{
+	  "Country-name":"United Arab Emirates",
+	  "NOC":"UAE",
+	  "lat":24,
+	  "long":54,
+	  "Gold-Medals":1,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":1
+	  },
+{
+	  "Country-name":"United Kingdom",
+	  "NOC":"GBR",
+	  "lat":54,
+	  "long":-2,
+	  "Gold-Medals":33,
+	  "Silver-Medals":739,
+	  "Bronze-Medals":651
+	  },
+{
+	  "Country-name":"United States",
+	  "NOC":"USA",
+	  "lat":38,
+	  "long":-97,
+	  "Gold-Medals":95,
+	  "Silver-Medals":1641,
+	  "Bronze-Medals":1358
+	  },
+{
+	  "Country-name":"Uruguay",
+	  "NOC":"URU",
+	  "lat":-33,
+	  "long":-56,
+	  "Gold-Medals":0,
+	  "Silver-Medals":2,
+	  "Bronze-Medals":30
+	  },
+{
+	  "Country-name":"Uzbekistan",
+	  "NOC":"UZB",
+	  "lat":41,
+	  "long":64,
+	  "Gold-Medals":6,
+	  "Silver-Medals":7,
+	  "Bronze-Medals":17
+	  },
+{
+	  "Country-name":"Vanuatu",
+	  "NOC":"VAN",
+	  "lat":-16,
+	  "long":167,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Yemen",
+	  "NOC":"YEM",
+	  "lat":15,
+	  "long":48,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Zambia",
+	  "NOC":"ZAM",
+	  "lat":-15,
+	  "long":30,
+	  "Gold-Medals":0,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":1
+	  },
+{
+	  "Country-name":"Zimbabwe",
+	  "NOC":"ZIM",
+	  "lat":-20,
+	  "long":30,
+	  "Gold-Medals":0,
+	  "Silver-Medals":4,
+	  "Bronze-Medals":1
+	  },
+{
+	  "Country-name":"Afghanistan",
+	  "NOC":"AFG",
+	  "lat":33,
+	  "long":65,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":2
+	  },
+{
+	  "Country-name":"American Samoa*",
+	  "NOC":"ASA",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Aruba*",
+	  "NOC":"ARU",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Bermuda*",
+	  "NOC":"BER",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":1
+	  },
+{
+	  "Country-name":"Bolivia",
+	  "NOC":"BOL",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"British Virgin Islands",
+	  "NOC":"IVB",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Brunei",
+	  "NOC":"BRU",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Cayman Islands*",
+	  "NOC":"CAY",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Congo, Dem Rep",
+	  "NOC":"COD",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Cote d'Ivoire",
+	  "NOC":"CIV",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":1
+	  },
+{
+	  "Country-name":"East Timor (Timor-Leste)",
+	  "NOC":"TLS",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Hong Kong*",
+	  "NOC":"HKG",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":2,
+	  "Bronze-Medals":1
+	  },
+{
+	  "Country-name":"Iran",
+	  "NOC":"IRI",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":21,
+	  "Bronze-Medals":29
+	  },
+{
+	  "Country-name":"Korea, North",
+	  "NOC":"PRK",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":16,
+	  "Bronze-Medals":35
+	  },
+{
+	  "Country-name":"Korea, South",
+	  "NOC":"KOR",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":232,
+	  "Bronze-Medals":185
+	  },
+{
+	  "Country-name":"Laos",
+	  "NOC":"LAO",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Libya",
+	  "NOC":"LBA",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Macedonia",
+	  "NOC":"MKD",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":1
+	  },
+{
+	  "Country-name":"Micronesia",
+	  "NOC":"FSM",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Moldova",
+	  "NOC":"MDA",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":3,
+	  "Bronze-Medals":5
+	  },
+{
+	  "Country-name":"Burma",
+	  "NOC":"MYA",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Netherlands Antilles*",
+	  "NOC":"AHO",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Palestine, Occupied Territories",
+	  "NOC":"PLE",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":0,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Puerto Rico*",
+	  "NOC":"PUR",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":2,
+	  "Bronze-Medals":6
+	  },
+{
+	  "Country-name":"Russia",
+	  "NOC":"RUS",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":5,
+	  "Silver-Medals":367,
+	  "Bronze-Medals":408
+	  },
+{
+	  "Country-name":"Syria",
+	  "NOC":"SYR",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":1
+	  },
+{
+	  "Country-name":"Taiwan",
+	  "NOC":"TPE",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":28,
+	  "Bronze-Medals":18
+	  },
+{
+	  "Country-name":"Tanzania",
+	  "NOC":"TAN",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":2,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Venezuela",
+	  "NOC":"VEN",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":3,
+	  "Bronze-Medals":10
+	  },
+{
+	  "Country-name":"Vietnam",
+	  "NOC":"VIE",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":3,
+	  "Bronze-Medals":0
+	  },
+{
+	  "Country-name":"Virgin Islands*",
+	  "NOC":"ISV",
+	  "lat":-1,
+	  "long":-1,
+	  "Gold-Medals":0,
+	  "Silver-Medals":1,
+	  "Bronze-Medals":0
+	  }
+  ]
+}
