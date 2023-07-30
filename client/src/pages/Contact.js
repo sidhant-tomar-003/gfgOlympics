@@ -21,7 +21,7 @@ const Contact = () => {
               </div>
             </div>
             <div style={{ display: "flex", justifyContent: "center" }} className="pt-4">
-              <Button size="large" variant="contained" color="secondary" type="submit" value="Send"> Send </Button>
+              <Button size="large" variant="contained" color="secondary" type="submit" value="Send" style={{borderRadius:"15px"}}> Send </Button>
             </div>
           </form>
         </div>
