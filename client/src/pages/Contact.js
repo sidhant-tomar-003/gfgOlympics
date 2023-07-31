@@ -1,10 +1,14 @@
+import { motion, AnimatePresence } from "framer-motion";
+import {
+  headContentAnimation
+} from '../config/motion';
 import React from 'react'
 import { Button, TextField } from '@mui/material';
 
 const Contact = () => {
   return (
-    <>
-      <div class="about-section" id="contact_us0" >
+    <AnimatePresence>
+      <motion.div {...headContentAnimation} class="about-section" id="contact_us0" >
         <div style={{ display: "flex", justifyContent: "center" }}>
           <h2 className="mb-3 mt-4" style={{ fontWeight: "Bold" }}>Contact <span style={{ color: "#9C27B0" }}>Us</span> </h2>        </div>
         <div style={{margin:"20px 70px", padding:"0px 50px"}}>
@@ -25,9 +29,9 @@ const Contact = () => {
             </div>
           </form>
         </div>
-      </div>
+      </motion.div>
       <hr style={{marginTop:"45px"}}/>
-    </>
+    </AnimatePresence>
   )
 }
 

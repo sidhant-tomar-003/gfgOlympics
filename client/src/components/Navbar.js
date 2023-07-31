@@ -7,7 +7,7 @@ const Navbar = () => {
     return (
     <nav>
             <div class="left">Olympics Around the World!</div>
-            <div class="right">
+            <div class="right texter-nav-other">
                 <ul>
                     <li><Link className={`nav-link ${(location.pathname === "/")?"active":""}`} to="/">Home</Link></li>
                     <li><Link className={`nav-link ${(location.pathname === "/data")?"active":""}`} to="/data">Historical data and charts</Link></li>
