@@ -27,7 +27,7 @@ The Geeks for Geeks Olympics Hackathron project is a web application developed u
 
 Before setting up the project, ensure that you have the following prerequisites installed on your system:
 
-1. Node.js: Install Node.js from the official website - https://nodejs.org/
+1. Node.js: Install Node.js from the official website - [Node-JS](https://nodejs.org/)
 
 ### 1.2 Project Setup
 
@@ -35,24 +35,27 @@ To set up the project, follow these steps:
 
 1. Clone the repository from GitHub:
 
+```
 bash
 git clone https://github.com/Sid-the-Slothh/gfgOlympics.git
 cd geeks-for-geeks-olympics
-
+```
 
 2. Install project dependencies:
-
+   
+```
 bash
 npm install
-
+```
 
 ### 1.3 Running the Application
 
 To run the Geeks for Geeks Olympics Hackathron web application, use the following command:
 
+```
 bash
 npm start
-
+```
 
 The application will be accessible at `http://localhost:3000`.
 
