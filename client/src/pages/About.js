@@ -8,16 +8,15 @@ function About() {
                 <div className="note-img me-3">
                     <h2 className="mb-3 mt-4" style={{ fontWeight: "Bold", fontSize: "35px" }}>About <span style={{ color: "#9C27B0" }}>Us</span> </h2>
 
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure praesentium eligendi voluptatem delectus, ad cumque? Sequi, ullam quas! Consequatur commodi quae, possimus similique repellendus assumenda omnis temporibus amet cupiditate unde ad eum.</p>
+                    <p>Welcome to Olympic Medals World Map, a passion project born out of our love for sports, history, and the spirit of global competition. Our team of dedicated enthusiasts came together to create a one-of-a-kind platform that allows you to explore the rich and storied history of the Olympic Games in a captivating and interactive way.</p>
                 </div>
             </div>
 
             <div className="container mt-5 ">
                 <div className="row">
                     <div className="col-md-6 d-flex flex-column justify-content-center">
-                        <h2 className="mb-3" style={{ fontWeight: "Bold" }}>Why use <span style={{ color: "#9C27B0" }}>our website?</span> </h2>
-                        <p
-                        >Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugit temporibus inventore ullam sunt, exercitationem dignissimos est neque illum, sint molestiae similique quibusdam, blanditiis nemo eius. Dolor assumenda, labore quibusdam, dolore quo illum architecto ipsa, recusandae quasi placeat voluptate sapiente.
+                        <h2 className="mb-3" style={{ fontWeight: "Bold" }}>Why use <span style={{ color: "#9C27B0" }}>Why We Built This Platform</span> </h2>
+                        <p>The idea behind Olympic Medals World Map was sparked by our desire to provide a comprehensive and visually captivating way for enthusiasts like you to relive the Olympic journey. Our interactive map not only displays medal counts but also tells the remarkable stories of triumph, perseverance, and sportsmanship that have defined the Games for more than a century.
                         </p>
                     </div>
                     <div className="col-md-6">
