@@ -1,26 +1,26 @@
 import React from 'react'
 import Map from '../components/Map';
+import image from "./home.png"
 
 const Home = () => {
   return (
     <>
-      <section class="firstSection">
-            <div class="leftSection">Hi this is our <span class="purple">Home page</span>
-                <div> This is for our gfg hackathon</div>
-                <div>We still require a:</div>
-
-                <span id="element">
-                  ayo
-                </span>
-
-            </div>
-            <div class="rightSection">
-                <img src="./assests/bg.jpg" alt="Dev image"/>
-            </div>
-        </section>
-        <hr/>
-
-      <Map/>
+      <div className="container mt-5 ">
+        <div className="row">
+          <div className="col-md-6 d-flex flex-column justify-content-center">
+            <h2 className="mb-3" style={{ fontWeight: "Bold", display: "flex", justifyContent: "center" }}>Edge <span style={{ color: "#9C27B0" }}>Runners</span> </h2>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugit temporibus inventore ullam sunt, exercitationem dignissimos est neque illum, sint molestiae similique quibusdam, blanditiis nemo eius. Dolor assumenda, labore quibusdam, dolore quo illum architecto ipsa, recusandae quasi placeat voluptate sapiente.
+            </p>
+          </div>
+          <div className="col-md-6 pt-3 pb-5">
+            <img className="img-fluid" src={image} alt="olympics" />
+          </div>
+        </div>
+      </div>
+      <div className="d-flex justify-content-center">
+        <hr style={{ width: "500px", marginTop: '50px', height: "1px", backgroundColor: "grey" }} />
+      </div>
+      <Map />
     </>
   )
 }
