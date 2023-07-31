@@ -41,34 +41,34 @@ const Map = () => {
             if (sum > 25)
               color = "rgb(255,0,0)";
             else
-              color = `rgb(${sum*10},0,0)`;
+              color = `rgb(${sum * 10},0,0)`;
 
             // Create a marker on the map
-            const marker =new mapboxgl.Marker({
-                draggable: false,
-                color: color
+            const marker = new mapboxgl.Marker({
+              draggable: false,
+              color: color
             }).setLngLat([long, lat])
-            .addTo(map);
+              .addTo(map);
 
             const popup = new mapboxgl.Popup({
-                closeButton: false,
-                closeOnClick: false
+              closeButton: false,
+              closeOnClick: false
             });
 
             marker.getElement().addEventListener('mouseenter', () => {
-                popup.setLngLat(marker.getLngLat())
-                    .setHTML(
-                        `<h3>${Country_name}</h3>` +
-                        `<p>NOC: ${NOC}</p>` +
-                        `<p>GOLD: ${Gold_Medals}</p>` +
-                        `<p>SILVER: ${Silver_Medals}</p>` +
-                        `<p>BRONZE: ${Bronze_Medals}</p>` 
-                    )
-                    .addTo(map);
+              popup.setLngLat(marker.getLngLat())
+                .setHTML(
+                  `<h3>${Country_name}</h3>` +
+                  `<p>NOC: ${NOC}</p>` +
+                  `<p>GOLD: ${Gold_Medals}</p>` +
+                  `<p>SILVER: ${Silver_Medals}</p>` +
+                  `<p>BRONZE: ${Bronze_Medals}</p>`
+                )
+                .addTo(map);
             });
 
             marker.getElement().addEventListener('mouseleave', () => {
-                popup.remove();
+              popup.remove();
             });
 
             // Add the marker to the 'markers' state
@@ -92,9 +92,9 @@ const Map = () => {
 
   return (
     <div>
-      this is the map compo for the home page!
+      <h4 className="mb-3 mt-4" style={{display:"flex", justifyContent:"center", fontFamily:"'Montserrat', sans-serif", fontSize:"20px"}}>hello this is vinay </h4>
       <div id='map' style={{ width: '100%', height: '700px' }}></div>
-    </div>
+    </div >
   );
 };
 
