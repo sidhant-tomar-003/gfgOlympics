@@ -36,7 +36,7 @@ To set up the project, follow these steps:
 1. Clone the repository from GitHub:
 
 bash
-git clone https://github.com/your-username/geeks-for-geeks-olympics.git
+git clone https://github.com/Sid-the-Slothh/gfgOlympics.git
 cd geeks-for-geeks-olympics
 
 
