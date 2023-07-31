@@ -29,7 +29,7 @@ const Map = () => {
     // "Bronze-Medals":517
     // Function to update the map with the fetched data
     const updateMap = () => {
-      fetch("/assests/data.json")
+      fetch("/assets/data.json")
         .then(response => response.json())
         .then(rsp => {
           removeMarkers(); // Remove existing markers before adding new ones
@@ -92,7 +92,8 @@ const Map = () => {
 
   return (
     <div>
-      <h4 className="mb-3 mt-4" style={{display:"flex", justifyContent:"center", fontFamily:"'Montserrat', sans-serif", fontSize:"20px"}}>hello this is vinay </h4>
+      <h4 className="mb-3 mt-4" style={{display:"flex", justifyContent:"center", fontFamily:"'Montserrat', sans-serif", fontSize:"20px"}}>World Map</h4>
+      <p style={{display: 'flex', justifyContent: 'center'}}>Hover over the pins on the map to view that country's stats!</p>
       <div id='map' style={{ width: '100%', height: '700px' }}></div>
     </div >
   );

@@ -6,7 +6,7 @@ const Navbar = () => {
 
     return (
     <nav>
-            <div class="left">Skellington Website</div>
+            <div class="left">Olympics Around the World!</div>
             <div class="right">
                 <ul>
                     <li><Link className={`nav-link ${(location.pathname === "/")?"active":""}`} to="/">Home</Link></li>

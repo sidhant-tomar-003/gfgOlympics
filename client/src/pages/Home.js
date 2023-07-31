@@ -9,7 +9,7 @@ const Home = () => {
         <div className="row">
           <div className="col-md-6 d-flex flex-column justify-content-center">
             <h2 className="mb-3" style={{ fontWeight: "Bold", display: "flex", justifyContent: "center" }}>Edge <span style={{ color: "#9C27B0" }}>Runners</span> </h2>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugit temporibus inventore ullam sunt, exercitationem dignissimos est neque illum, sint molestiae similique quibusdam, blanditiis nemo eius. Dolor assumenda, labore quibusdam, dolore quo illum architecto ipsa, recusandae quasi placeat voluptate sapiente.
+            <p>Welcome to Olympics Around the World! Our interactive world map provides an immersive experience, allowing you to navigate through the years and uncover the medal counts of countries across all Olympic events. Watch as the map dynamically updates with the latest medal data, giving you real-time insights into the current standings of the ongoing Olympic Games. 
             </p>
           </div>
           <div className="col-md-6 pt-3 pb-5">

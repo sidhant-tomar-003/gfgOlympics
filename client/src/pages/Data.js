@@ -12,7 +12,7 @@ const Data = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch("/assests/data.json");
+        const response = await fetch("/assets/data.json");
         const jsonData = await response.json();
 
         // Assuming the JSON data is in the format { "data": [...] }
@@ -103,7 +103,10 @@ const Data = () => {
       </section>
       <hr />
 
-      <h2>Medals Distribution</h2>
+      <h2>Celebrating Excellence</h2>
+      <p>At Olympic Medals World Map, we take pride in celebrating the spirit of sportsmanship, dedication, and perseverance demonstrated by athletes and countries at the Olympic Games. Our Medals Charts offer a unique opportunity to analyze the historical data, discover captivating trends, and pay tribute to the remarkable achievements of nations worldwide.
+
+Come, embark on this captivating journey through Olympic history, and witness the impact of sporting triumphs on a global scale. Let the Medals Charts inspire you, spark your curiosity, and instill a deeper appreciation for the timeless legacy of the Olympic Games.</p>
       <div>
       {Object.keys(chartData).length > 0 && (
         <Scatter
