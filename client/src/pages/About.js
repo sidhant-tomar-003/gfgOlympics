@@ -28,7 +28,7 @@ function About() {
                 <div className="row">
                     <div className="col-md-6 d-flex flex-column justify-content-center">
                     <motion.div {...headContentAnimation}>
-                        <h2 className="mb-3" style={{ fontWeight: "Bold" }}>Why use <span style={{ color: "#9C27B0" }}>Why We Built This Platform</span> </h2>
+                        <h2 className="mb-3" style={{ fontWeight: "Bold" }}>Why We Built<span style={{ color: "#9C27B0" }}> This Platform</span> </h2>
                         <p className='texter'>The idea behind Olympic Medals World Map was sparked by our desire to provide a comprehensive and visually captivating way for enthusiasts like you to relive the Olympic journey. Our interactive map not only displays medal counts but also tells the remarkable stories of triumph, perseverance, and sportsmanship that have defined the Games for more than a century.
                         </p>
                         </motion.div>
