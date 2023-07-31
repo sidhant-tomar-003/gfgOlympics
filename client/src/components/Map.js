@@ -39,9 +39,9 @@ const Map = () => {
             // cases = element.infected;
             let sum = Gold_Medals + Silver_Medals + Bronze_Medals;
             if (sum > 25)
-              color = "rgb(255,0,0)";
+              color = "rgb(0,255,0)";
             else
-              color = `rgb(${sum * 10},0,0)`;
+              color = `rgb(0,${sum * 10},0)`;
 
             // Create a marker on the map
             const marker = new mapboxgl.Marker({
@@ -92,8 +92,8 @@ const Map = () => {
 
   return (
     <div>
-      <h4 className="mb-3 mt-4" style={{display:"flex", justifyContent:"center", fontFamily:"'Montserrat', sans-serif", fontSize:"20px"}}>World Map</h4>
-      <p style={{display: 'flex', justifyContent: 'center'}}>Hover over the pins on the map to view that country's stats!</p>
+      <h4 className="mb-3 mt-4 texter-header" style={{display:"flex", justifyContent:"center", fontSize:"40px"}}>World Map</h4>
+      <p className="texter" style={{display: 'flex', justifyContent: 'center'}}>Hover over the pins on the map to view that country's stats!</p>
       <div id='map' style={{ width: '100%', height: '700px' }}></div>
     </div >
   );
